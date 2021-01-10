@@ -13,7 +13,8 @@ In 2018, only 2 out of 12 stocks had positive return, and ENPH had the most retu
 
 As shown above, the return of stocks in 2018 was systematically worse than that for 2017. And ENPH had the most stable performance, it had realtively good return in both 2017 and 2018.
 
-###
+### Execution times of VBA scripts
+The execution time for the original script was aroung 0.6s, and the execution time for the refactored BVA script was 0.125 secound as showned below.
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
