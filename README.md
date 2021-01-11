@@ -24,5 +24,16 @@ The execution time for the original script was aroung 0.6s, and the execution ti
 
 ## Summary
 ### Advantages and disadvantages of refactoring code in general 
+Advantages:
+1. increase readability of the code
+2. increase the maintainbility
+3. increase the extensibility
+4. increase the efficiency in long term
+
+Disadvantages:
+1. Error or mistake made during refactoring may influence the whole structure
+
 
 ### Advantages and disadvantages of the original and refactored VBA script
+- the original script didn't use array, less variable were initialized.
+- the refactored script was more organized and even if there is more years of data, it can still process without chaning anything in the script.
